@@ -1,5 +1,5 @@
 # 👾krab
-- 👋 Hi, this is krab
+- 👋 Hi, this is krab~
 
 <!---
 isxrh/isxrh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
