@@ -1,5 +1,5 @@
 # kkkrab
-- 👋 Hi, I’m @isxrh
+- 👋 Hi, this is @isxrh
 
 <!---
 isxrh/isxrh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
